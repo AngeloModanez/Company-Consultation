@@ -6,3 +6,4 @@ LEN(Nome + Sobrenome) - LEN(REPLACE(LOWER(Nome + Sobrenome), 'e', '')) +
 LEN(Nome + Sobrenome) - LEN(REPLACE(LOWER(Nome + Sobrenome), 'i', '')) + 
 LEN(Nome + Sobrenome) - LEN(REPLACE(LOWER(Nome + Sobrenome), 'o', '')) +
 LEN(Nome + Sobrenome) - LEN(REPLACE(LOWER(Nome + Sobrenome), 'u', '')) > 3
+GO
